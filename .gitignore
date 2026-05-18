@@ -1,0 +1,10 @@
+# Database
+database/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
